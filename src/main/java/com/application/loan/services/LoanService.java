@@ -1,7 +1,6 @@
 package com.application.loan.services;
 
 import com.application.loan.dto.LoanDTO;
-import com.application.loan.model.Loan;
 
 import java.util.List;
 

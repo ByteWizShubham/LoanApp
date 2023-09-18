@@ -1,6 +1,5 @@
 package com.application.loan.model;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 
 import javax.persistence.*;

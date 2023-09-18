@@ -2,7 +2,6 @@ package com.application.loan.controller;
 
 import com.application.loan.dto.LoanDTO;
 import com.application.loan.exception.ResourceNotFoundException;
-import com.application.loan.model.Loan;
 import com.application.loan.services.LoanService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
